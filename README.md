@@ -6,16 +6,16 @@
 
 ## Table of Contents / جدول المحتويات
 
-* [Hardware & Computing / المكونات المادية والأساسيات التحتية](hardware--computing)
-* [Programming Foundations / الهيكلية البرمجية وأسس كتابة الشيفرة](programming-foundations)
-* [Software Architecture / النماذج المعمارية للبرمجيات وتصميم النظم](software-architecture)
-* [Design Patterns & Repos / استراتيجيات إدارة المستودعات وأنماط التصميم](design-patterns--repos)
-* [Software Quality / جودة البرمجيات والديون الفنية](software-quality)
-* [Cloud & DevOps / البنية التحتية، السحابة، وأتمتة العمليات](cloud--devops)
-* [Testing & QA / ضمان جودة البرمجيات وأنماط الاختبار](testing--qa)
-* [Project Management / إدارة المشاريع والمنهجيات التقليدية](project-management)
-* [Agile Methodologies / منهجيات التطوير المرنة](agile-methodologies)
-* [Future Trends / التوجهات المستقبلية: البيانات والذكاء الاصطناعي](future-trends)
+* [Hardware & Computing / المكونات المادية والأساسيات التحتية](#hardware--computing)
+* [Programming Foundations / الهيكلية البرمجية وأسس كتابة الشيفرة](#programming-foundations)
+* [Software Architecture / النماذج المعمارية للبرمجيات وتصميم النظم](#software-architecture)
+* [Design Patterns & Repos / استراتيجيات إدارة المستودعات وأنماط التصميم](#design-patterns--repos)
+* [Software Quality / جودة البرمجيات والديون الفنية](#software-quality)
+* [Cloud & DevOps / البنية التحتية، السحابة، وأتمتة العمليات](#cloud--devops)
+* [Testing & QA / ضمان جودة البرمجيات وأنماط الاختبار](#testing--qa)
+* [Project Management / إدارة المشاريع والمنهجيات التقليدية](#project-management)
+* [Agile Methodologies / منهجيات التطوير المرنة](#agile-methodologies)
+* [Future Trends / التوجهات المستقبلية: البيانات والذكاء الاصطناعي](#future-trends)
 
 ---
 
@@ -447,7 +447,7 @@
 > [!NOTE]
 > The term "Bug" was popularized in 1947 when Grace Hopper found an actual moth stuck inside a computer relay, causing a malfunction.
 >
-> مصطلح "Bug" اشتُهر عام 1947 حين وجدت Grace Hopper فراشة حقيقية عالقة في دائرة كمبيوتر كانت تسبب خللاً في التشغيل.
+> مصطلح "Bug" اشتُهر عام 1947 حين وجدت Grace Hopper عثّةً (حشرة ليلية) حقيقية عالقة في دائرة كمبيوتر كانت تسبب خللاً في التشغيل.
 
 ---
 
